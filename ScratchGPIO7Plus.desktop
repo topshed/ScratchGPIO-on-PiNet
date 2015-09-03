@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/opt/scratchgpio7/scratchgpio7plus.sh
+Icon=scratch
+Terminal=false
+Name=ScratchGPIOPlus
+MimeType=application/x-scratch-project
